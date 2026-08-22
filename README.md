@@ -28,4 +28,3 @@ mvn spring-boot:run
 
 Runs on port `8082` by default. Requires MongoDB, and the CampusFlow Config Server +
 Eureka Server to be running.
-# campus-request-service
